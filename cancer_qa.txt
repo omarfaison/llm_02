@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is the tumor microenvironment (TME) and why is it important in cancer progression?",
+        "answer": "The tumor microenvironment (TME) refers to the surrounding non-cancerous cells, blood vessels, immune cells, fibroblasts, extracellular matrix (ECM), and signaling molecules that interact with cancer cells. It plays a critical role in cancer progression by providing the necessary support for tumor growth, survival, invasion, and metastasis. The TME can also protect cancer cells from the immune system and contribute to therapeutic resistance."
+    },
+    {
+        "question": "How do integrins contribute to cancer cell metastasis?",
+        "answer": "Integrins are cell surface receptors that mediate adhesion between cells and the ECM. They play a crucial role in cancer metastasis by aiding in cell migration, invasion, and survival in the bloodstream. Integrins help cancer cells detach from the primary tumor, enter blood vessels (intravasation), exit blood vessels at distant sites (extravasation), and colonize new tissues. They also promote signaling pathways that enhance cell survival and proliferation in new environments."
+    },
+    {
+        "question": "What is the 'seed and soil' hypothesis in cancer biology?",
+        "answer": "The 'seed and soil' hypothesis, proposed by Stephen Paget, suggests that cancer cells (the 'seeds') can only grow in favorable environments (the 'soil'). This concept implies that metastasis depends not only on the properties of the cancer cells but also on the characteristics of the distant tissues to which they spread. A conducive microenvironment is necessary for cancer cells to establish secondary tumors."
+    },
+    {
+        "question": "Explain the role of epithelial-mesenchymal transition (EMT) in cancer metastasis.",
+        "answer": "Epithelial-mesenchymal transition (EMT) is a process where cancer cells lose their epithelial characteristics, such as cell adhesion, and gain mesenchymal traits, including increased motility. This transition enables cancer cells to detach from the primary tumor, invade surrounding tissues, and enter the bloodstream, thus promoting metastasis. During EMT, cancer cells downregulate E-cadherin and upregulate integrins, which enhances their migratory capabilities."
+    },
+    {
+        "question": "How do cancer cells evade immune detection within the tumor microenvironment?",
+        "answer": "Cancer cells evade immune detection by manipulating the tumor microenvironment. They release signaling molecules that suppress the activity of immune cells or recruit immune cells that support tumor growth. For example, cancer cells can alter the function of macrophages, converting them into tumor-associated macrophages (TAMs) that promote tumor growth instead of attacking cancer cells. Additionally, cancer cells can express immune checkpoint proteins that inhibit T-cell activity."
+    },
+    {
+        "question": "What are the primary mechanisms of cell death, and how do they relate to cancer?",
+        "answer": "The three main mechanisms of cell death are apoptosis (programmed cell death), necrosis (unplanned, inflammatory cell death), and autophagy (self-degradative process). In cancer, cells often evade these mechanisms to proliferate uncontrollably. Apoptosis involves caspase activation, leading to the systematic dismantling of the cell without causing inflammation. In contrast, necrosis leads to the release of cellular contents, which can trigger an inflammatory response, potentially promoting tumor growth."
+    },
+    {
+        "question": "How do environmental factors contribute to cancer risk?",
+        "answer": "Environmental factors, such as exposure to carcinogens (e.g., tobacco smoke, radiation, and chemicals), play a significant role in cancer risk. These factors can induce mutations in DNA, promote oxidative stress, or disrupt normal cellular functions, leading to the initiation and progression of cancer. For example, tobacco smoke contains multiple carcinogens that cause lung cancer by inducing DNA damage and promoting cellular proliferation."
+    },
+    {
+        "question": "Describe how chronic inflammation in the tumor microenvironment can promote cancer progression.",
+        "answer": "Chronic inflammation in the tumor microenvironment creates conditions that support cancer progression. Inflammatory cells release cytokines and growth factors that stimulate cancer cell proliferation, angiogenesis, and metastasis. The presence of pro-inflammatory molecules like reactive oxygen species (ROS) can lead to DNA damage, further driving tumor development. Additionally, inflammation can suppress anti-tumor immune responses, allowing cancer cells to evade immune surveillance."
+    },
+    {
+        "question": "What is the significance of the pre-metastatic niche in cancer metastasis?",
+        "answer": "The pre-metastatic niche is a concept where primary tumors release factors that prepare distant tissues to become more hospitable to cancer cells before they arrive. These factors can recruit bone marrow-derived cells, alter the ECM, and modify immune cell behavior, making it easier for metastatic cancer cells to establish secondary tumors. This process enhances the efficiency of metastasis by ensuring that cancer cells encounter a supportive environment upon reaching new sites."
+    },
+    {
+        "question": "How do dietary factors influence cancer risk?",
+        "answer": "Diet can influence cancer risk through several mechanisms. High consumption of red and processed meats, which contain carcinogenic compounds like heterocyclic amines and nitrosamines, is associated with an increased risk of colorectal cancer. Conversely, diets rich in fruits and vegetables, which contain antioxidants and anti-inflammatory compounds, are linked to a reduced risk of several cancers. Obesity, driven by excessive calorie intake, is also a major risk factor, as it can lead to hormonal imbalances and chronic inflammation that promote cancer."
+    }
+]
